@@ -50,15 +50,17 @@ Notable Links:
 - [First Forum Post on 2008 December 29](https://forums.utherverse.com/yaf_postsm397427_UVTexture--Custom-Textures-Distribution-System.aspx#post397427)
 - [Last Forum Post on 2009 February 11](https://forums.utherverse.com/yaf_postsm451719_UVTexture--Custom-Textures-Distribution-System.aspx#post451719)
 
+## 2009 January 20 / UVTexture
+
+I had taken Murasaki_hime's idea of "texture distribution", created the program and the storage. After that it gained huge traction across the Utherverse.
+
+We had the domain [uvtexture.com](https://web.archive.org/web/20090709062557/http://uthernews.com:80/node/817) and a mirror upload on [Yetanotherpaper (archive.org)](https://web.archive.org/web/20090507195924/http://www.uthernews.com:80/node/817).
+
 ## 2009 February 11 / Legal Action
 
 The domain adminstrator received a legal thread about distributing software. They wrote back that they didn't write the software, and that was the end of that.
 
 This was also around when twizzlah got banned.
-
-## 2009 May 7 / UVTexture
-
-I had taken Murasaki_hime's idea of "texture distribution", created the program and the storage and provided her code to put on [Yetanotherpaper (archive.org)](https://web.archive.org/web/20090507195924/http://www.uthernews.com:80/node/817). After that it gained huge traction across the Utherverse.
 
 ## 2009 May 21 / Fourth User Registration
 
