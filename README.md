@@ -50,6 +50,12 @@ Notable Links:
 - [First Forum Post on 2008 December 29](https://forums.utherverse.com/yaf_postsm397427_UVTexture--Custom-Textures-Distribution-System.aspx#post397427)
 - [Last Forum Post on 2009 February 11](https://forums.utherverse.com/yaf_postsm451719_UVTexture--Custom-Textures-Distribution-System.aspx#post451719)
 
+## 2008 December 26 / UVTexture Program Development
+
+[UVTexture VB6 Source](uvtexture/README.md)
+
+at 11:39pm US Eastern I had made my first save on UVTexture. 31 of December I had received the infamous "Pirate Bunneh" icon, and things started to come into place.
+
 ## 2009 January 20 / UVTexture
 
 I had taken Murasaki_hime's idea of "texture distribution" and wrote the program and hosted the storage. After that it gained huge traction across the Utherverse.

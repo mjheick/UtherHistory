@@ -1,0 +1,6 @@
+Starting UVTexSync
+Application Path: C:\Documents and Settings\Programs\Desktop\uvtexture\Program\free\
+Texture root path: \
+Exec TextureCheckup()
+localdata::lmf::2009-01-04 21:39:47/::
+remotedata::lmf::2009-02-17 18:36:58/200::

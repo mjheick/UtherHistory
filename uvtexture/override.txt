@@ -1,0 +1,11 @@
+' this is the application search list for determining what program
+' the downloaded texture go in.  The search order is top-down,
+' and it will download to the first program it finds.
+' you can change the order if you prefer the textures to go 
+' to one program if you have two programs installed.
+' eg: Utherverse 3D and the Utherverse 3D QA
+
+Utherverse3D		' utherverse 3D client
+VirtualVancouver	' virtual vancouver client
+Rude			' rude universe client
+UVQA			' utherverse 3d q&a build
