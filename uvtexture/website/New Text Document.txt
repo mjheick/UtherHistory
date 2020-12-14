@@ -1,0 +1,1 @@
+SELECT * FROM `tbl_uvtexture_main` WHERE NOT (filename like "HM%" or filename like "HF%" or filename like "UM%" or filename like "UF%")
