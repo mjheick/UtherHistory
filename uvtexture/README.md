@@ -4,7 +4,7 @@ This is an old framework that allows people to share textures in a central repos
 
 Application Code started 26 December 2008. Website scripting started 27 December 2008 and was created in tandem with the application.
 
-This process was obsoleted when Uthervere created their (Resource Downloader/Texture Server)[https://forums.utherverse.com/yaf_postst50746_The-Resource-Downloader-and-How-it-Changes-Everything---In-a-Very-Good-Way.aspx] on 26 November 2009 and asked us to upload all of our assets to their server.
+This process was obsoleted when Uthervere created their [Resource Downloader/Texture Server(https://forums.utherverse.com/yaf_postst50746_The-Resource-Downloader-and-How-it-Changes-Everything---In-a-Very-Good-Way.aspx) on 26 November 2009 and asked us to upload all of our assets to their server.
 
 # Requirements
 

@@ -8,14 +8,9 @@ When you want to support a 3D world...
 
 A long, long time ago I registered a user called "kraqur". It had a MemberId of [91018546](91018546/91018546_google-search-profile-dates.pdf).
 
-During this time I did a lot of blogging and documented my creation of two very important contributions:
-- Quick Closet
-- [Porno TV](PornoTV/index.html)
-- Autorayter
-
-per the [blog](91018546/blog.pdf) there were a couple dates to note:
+per the [blog](91018546/blog.pdf) there were a couple dates to note of my initial contributions to Utherverse:
 - 2007 October 28 / RLC Outfit Changer
-- 2007 November 7 / Porno TV
+- 2007 November 7 / [Porno TV](PornoTV/index.html)
 - 2008 April 23 / RLC Quick Closet v2
 - 2008 April 26 / Autorayter
 
@@ -52,7 +47,7 @@ Notable Links:
 
 ## 2008 December 26 / UVTexture Program Development
 
-[UVTexture VB6 Source](uvtexture)
+[UVTexture Source](uvtexture)
 
 at 11:39pm US Eastern I had made my first save on UVTexture. 31 of December I had received the infamous "Pirate Bunneh" icon, and things started to come into place.
 
@@ -85,6 +80,10 @@ At this time, with 5 rays for using the UVTextures downloader we were making BAN
 ## 2009 May 31 / Purchase of uvtstyle.com
 
 for $10.19 you can also be an owner of a domain name. Another user came and found me and proposed a "catalog" of sorts. Her identity was [seasonsheart](https://www.utherverse.com/net/profile/view_profile.aspx?MemberID=92046962).
+
+## 2009 November 26 / Death of UVTextures
+
+On providing us a 2-day notice (per comment #6 by aortae) we were asked to upload all of our textures to their [central resource server](https://forums.utherverse.com/yaf_postst50746_The-Resource-Downloader-and-How-it-Changes-Everything---In-a-Very-Good-Way.aspx). We did this and felt empty. We also got smart.
 
 ## 2010 Jan 5 / Launch of UVDeviant
 
