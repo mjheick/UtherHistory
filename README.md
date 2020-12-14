@@ -10,7 +10,7 @@ A long, long time ago I registered a user called "kraqur". It had a MemberId of 
 
 During this time I did a lot of blogging and documented my creation of two very important contributions:
 - Quick Closet
-- Porno TV
+- [Porno TV](PornoTV/index.html)
 - Autorayter
 
 per the [blog](91018546/blog.pdf) there were a couple dates to note:
@@ -52,13 +52,13 @@ Notable Links:
 
 ## 2009 January 20 / UVTexture
 
-I had taken Murasaki_hime's idea of "texture distribution", created the program and the storage. After that it gained huge traction across the Utherverse.
+I had taken Murasaki_hime's idea of "texture distribution" and wrote the program and hosted the storage. After that it gained huge traction across the Utherverse.
 
 We had the domain [uvtexture.com](https://web.archive.org/web/20090709062557/http://uthernews.com:80/node/817) and a mirror upload on [Yetanotherpaper (archive.org)](https://web.archive.org/web/20090507195924/http://www.uthernews.com:80/node/817).
 
-## 2009 February 11 / Legal Action
+## 2009 February 10 / Legal Action
 
-The domain adminstrator received a legal thread about distributing software. They wrote back that they didn't write the software, and that was the end of that.
+The domain adminstrator for unliterate.net received a legal thread about distributing software ([cover](legal/Utherverse-Digital-Inc.-letter-to-M.-Heick.pdf),[letter](legal/Utherverse-Matthew-Heick-Feb-10-2009.pdf)). He responded stating that he didn't write the software and some words regarding DMCA and about website operators not being liable for content of website, and that was the end of that.
 
 This was also around when twizzlah got banned.
 
@@ -72,9 +72,13 @@ Notable Links:
 - [aortae profile comments](https://www.utherverse.com/net/profile/all_PComments.aspx?MemberId=93612218)
 - [aortae blog](https://www.utherverse.com/Net/blog/view_blog.aspx?viewLogMId=93612218)
 
+## 2009 August 7 / UVTextures in Utherverse!
+
+At this time, with 5 rays for using the UVTextures downloader we were making BANK! We dropped [$550 USD](invoice/2009087-Utherverse-Invoice.pdf) into a shop and started working hard to get the word out.
+
 ## 2009 May 31 / Purchase of uvtstyle.com
 
-for $10.19 you can also be an owner of a domain name. Another user came and found me and proposed a "catalog" of sorts. Her Identity was [seasonsheart](https://www.utherverse.com/net/profile/view_profile.aspx?MemberID=92046962).
+for $10.19 you can also be an owner of a domain name. Another user came and found me and proposed a "catalog" of sorts. Her identity was [seasonsheart](https://www.utherverse.com/net/profile/view_profile.aspx?MemberID=92046962).
 
 ## 2010 Jan 5 / Launch of UVDeviant
 
