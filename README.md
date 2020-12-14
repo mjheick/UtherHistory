@@ -52,7 +52,7 @@ Notable Links:
 
 ## 2008 December 26 / UVTexture Program Development
 
-[UVTexture VB6 Source](uvtexture/README.md)
+[UVTexture VB6 Source](uvtexture)
 
 at 11:39pm US Eastern I had made my first save on UVTexture. 31 of December I had received the infamous "Pirate Bunneh" icon, and things started to come into place.
 
