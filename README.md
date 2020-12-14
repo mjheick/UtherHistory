@@ -75,3 +75,10 @@ Notable Links:
 ## 2009 May 31 / Purchase of uvtstyle.com
 
 for $10.19 you can also be an owner of a domain name. Another user came and found me and proposed a "catalog" of sorts. Her Identity was [seasonsheart](https://www.utherverse.com/net/profile/view_profile.aspx?MemberID=92046962).
+
+## 2010 Jan 5 / Launch of UVDeviant
+
+For some reason we had to act fast after uploading all the textures to the texture server, and we did. We built a full-service catalogue and texture uploader for users. 
+
+Notable Links:
+- [uvdeviant (archive.org)](https://web.archive.org/web/20100105024749/http://www.uvdeviant.com:80/)
